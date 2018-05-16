@@ -1,0 +1,18 @@
+{
+  "name": "typechain",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "tsc-watch": "^1.0.21"
+  },
+  "dependencies": {
+    "crypto-js": "^3.1.9-1"
+  }
+}
